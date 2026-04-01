@@ -1,0 +1,13 @@
+---
+title: EDIA at RSE Midlands
+author:
+  - name: Jeremy Cohen
+    affiliation: Imperial College London
+  - name: Ella Kaye
+    affiliation: University of Birmingham
+format: revealjs
+---
+
+## Slide 1
+
+## Slide 2
