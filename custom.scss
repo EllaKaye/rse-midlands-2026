@@ -1,0 +1,33 @@
+/*-- scss:defaults --*/
+
+/*-- scss:rules --*/
+#title-slide > h1 {
+  display: none;
+}
+
+.center-h {
+  text-align: center;
+}
+
+// sizes
+.smaller90 { font-size: 90%; }
+.smaller80 { font-size: 80%; }
+.smaller75 { font-size: 75%; }
+.smaller70 { font-size: 70%; }
+.smaller60 { font-size: 60%; }
+.smaller50 { font-size: 50%; }
+.larger125 { font-size: 125%; }
+.larger150 { font-size: 150%; }
+.larger175 { font-size: 175%; }
+.larger200 { font-size: 200%; }
+.larger250 { font-size: 250%; }
+
+// tables
+.reveal table th, .reveal table td {
+    border-bottom: 1px solid;
+    border-color: #cccccc;
+}
+
+#background > table > caption {
+  font-size: 60%;
+}

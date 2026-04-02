@@ -1,12 +1,11 @@
 ---
 title: Building diverse and inclusive RSE communities
-subtitle: Challenges and opportunities
-author:
-  - name: Jeremy Cohen
-    affiliation: Imperial College London
-  - name: Ella Kaye
-    affiliation: University of Birmingham
-format: revealjs
+format: 
+  revealjs:
+    theme: custom.scss
+title-slide-attributes:
+  data-background-image: images/title-slide.svg
+  data-background-size: contain
 ---
 
 ## Outline
@@ -17,9 +16,9 @@ format: revealjs
 - Key takeaways (~5 mins)
 - Q&A (~5 mins)
 
-# Who are we and why are we talking to you about EDIA?
+# Who are we and why are we talking to you about EDIA? {.center-h}
 
-# Why EDIA matters for RSEs
+# Why EDIA matters for RSEs {.center-h}
 
 ## Background
 
@@ -29,9 +28,7 @@ format: revealjs
 | Ethnicity (BAME/Mixed) | 5% | 15% | 21% | 12% |
 | Report disability | 6% | 4% | 10% | 13% |
 
-: Comparison of 2018 demographics for Research Software Engineers, Academics, Software Developers and general working population in the United Kingdom.
-
-<https://arxiv.org/pdf/2104.01712>
+: Comparison of 2018 demographics for Research Software Engineers, Academics, Software Developers and general working population in the United Kingdom. Source: <https://arxiv.org/pdf/2104.01712>
 
 ## Diagram about flow of jobs
 
@@ -41,11 +38,11 @@ format: revealjs
 
 ## STEP-UP Research Technical Champions scheme
 
-![](STEP-UPChampionsKickOff-October2025.jpeg)
+![](images/STEP-UPChampionsKickOff-October2025.jpeg)
 
 ## R Project Sprint
 
-![](group_friday.jpg)
+![](images/group_friday.jpg)
 
 ## Key take-aways
 
@@ -53,3 +50,9 @@ format: revealjs
 - We can all play a role in creating diverse, inclusive and sustainable communities
 - Opportunities exist to make a difference - don't be frightened to engage!
 - Community only happens when people create the spaces and folks participate
+
+## Links and resources
+
+- STEP-UP: <https://step-up.ac.uk>
+- R Contributors: <https://contributor.r-project.org>
+- rainbowR: <https://rainbowr.org>
