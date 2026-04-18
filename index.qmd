@@ -22,13 +22,58 @@ title-slide-attributes:
 
 ## Background
 
-| Demographic | RSEs | Academics | Software Developers | All UK Workers |
-|---|---|---|---|---|
-| Gender (female) | 14% | 46% | 14% | 48% |
-| Ethnicity (BAME/Mixed) | 5% | 15% | 21% | 12% |
-| Report disability | 6% | 4% | 10% | 13% |
+ 
 
-: Comparison of 2018 demographics for Research Software Engineers, Academics, Software Developers and general working population in the United Kingdom. Source: <https://arxiv.org/pdf/2104.01712>
+:::: {.columns .smaller80}
+Diversity within the RSE community:
+
+::: {.column width="20%"}
+**Gender<sup>1</sup>**:
+:::
+
+::: {.column width="80%" .smaller80}
+| RSEs | Male | Female | Prefer to self-describe |
+|---|---|---|---|---|
+| UK | 71% | 20% | 3% |
+| USA |  78% | 18% | 2% |
+| Germany | 85% | 13% | 1% |
+| World  | 80% | 16% | 1% |
+::: {.smaller50}
+Figures rounded to nearest percentage point. Individual countries included
+where respondent count > 100. The 2022 RSE survey provides insufficient data to be able to report on other
+aspects of diversity.
+:::
+
+:::
+
+::::
+
+::: {.smaller50}
+
+:::
+
+::: {.smaller60}
+<b>In the 2018 International RSE survey, results for the UK showed 79.8%
+of respondents as male, 14.3% female and 0.5% selecting the "other"
+option<sup>2</sup>.</b>
+
+For comparison, from 2021 UK Census results for England and Wales, males
+represented 52% and females of 48% of all those in employment <sup>3</sup>.
+:::
+
+::: aside
+::: {.smaller50}
+<sup>1</sup> Data from the RSE International Survey 2022: S. Hettrick et al. 
+Sociodemography section, “RSE Survey 2022”, Version 2022-v0.9.0. DOI: <https://doi.org/10.5281/zenodo.6884882>.
+
+<sup>2</sup> Data from the RSE International Survey 2018: O. Philippe et al.,
+Public release for 2018 results, Version 2018-v.1.0.2. DOI:
+<http://doi.org/10.5281/zenodo.2585783>
+
+<sup>3</sup> Office for National Statistics (ONS), released 25 September 2023, ONS website, article, [Diversity in the labour market, England, and Wales: Census 2021](https://www.ons.gov.uk/employmentandlabourmarket/peopleinwork/employmentandemployeetypes/articles/diversityinthelabourmarketenglandandwales/census2021)
+:::
+:::
+
 
 ## Diagram about flow of jobs
 
