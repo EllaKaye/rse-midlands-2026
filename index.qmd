@@ -20,19 +20,87 @@ title-slide-attributes:
 
 # Why EDIA matters for RSEs {.center-h}
 
-## Background
+## Background {.smaller90}
 
-| Demographic | RSEs | Academics | Software Developers | All UK Workers |
+ 
+
+:::: {.columns .smaller80}
+Diversity within the RSE community:
+
+::: {.column width="20%"}
+**Gender<sup>1</sup>**:
+:::
+
+::: {.column width="80%" .smaller90}
+| RSEs | Male | Female | Prefer to self-describe |
 |---|---|---|---|---|
-| Gender (female) | 14% | 46% | 14% | 48% |
-| Ethnicity (BAME/Mixed) | 5% | 15% | 21% | 12% |
-| Report disability | 6% | 4% | 10% | 13% |
+| UK | 71% | 20% | 3% |
+| USA |  78% | 18% | 2% |
+| Germany | 85% | 13% | 1% |
+| World  | 80% | 16% | 1% |
+::: {.smaller50}
+Figures rounded to nearest percentage point. Individual countries included
+where respondent count > 100. The 2022 RSE survey provides insufficient data to be able to report on other
+aspects of diversity.
+:::
 
-: Comparison of 2018 demographics for Research Software Engineers, Academics, Software Developers and general working population in the United Kingdom. Source: <https://arxiv.org/pdf/2104.01712>
+:::
 
-## Diagram about flow of jobs
+::::
 
-*Placeholder*
+::: {.smaller70}
+<b>In the 2018 International RSE survey, results for the UK showed 79.8%
+of respondents as male, 14.3% female and 0.5% selecting the "other"
+option<sup>2</sup>.</b>
+
+For comparison, from 2021 UK Census results for England and Wales, males
+represented 52% and females of 48% of all those in employment <sup>3</sup>.
+:::
+
+::: aside
+::: {.smaller50}
+<sup>1</sup> Data from the RSE International Survey 2022: S. Hettrick et al. 
+Sociodemography section, “RSE Survey 2022”, Version 2022-v0.9.0. DOI: <https://doi.org/10.5281/zenodo.6884882>.
+
+<sup>2</sup> Data from the RSE International Survey 2018: O. Philippe et al.,
+Public release for 2018 results, Version 2018-v.1.0.2. DOI:
+<http://doi.org/10.5281/zenodo.2585783>
+
+<sup>3</sup> Office for National Statistics (ONS), released 25 September 2023, ONS website, article, [Diversity in the labour market, England, and Wales: Census 2021](https://www.ons.gov.uk/employmentandlabourmarket/peopleinwork/employmentandemployeetypes/articles/diversityinthelabourmarketenglandandwales/census2021)
+:::
+:::
+
+
+## Background: Skill and career pipelines {.smaller90}
+
+::: {.smaller90}
+ - Effective skill and career pipelines vital to build a more diverse community
+ - Enhancing technical skill development opportunities in schools and at
+ undergraduate level (in traditionally non-computational domains)
+
+But we can also make a difference within the existing community...
+
+ - "**Domain mobility**"<sup>1</sup> - shows precedent for moving between domains to undertake RSE work - demographics can
+ differ between subject areas.
+
+ - Data (e.g. 2022 RSE international survey <sup>2</sup>) shows many
+ RSEs currently undertaking technical work in a different domain to that of
+ their highest-level qualification.
+
+:::
+
+::: aside
+::: {.smaller50}
+<sup>1</sup> N. P. Chue Hong, J. Cohen, C. Jay, (2021). Understanding Equity, Diversity
+and Inclusion Challenges Within the Research Software Community. In: Paszynski,
+M. et al.(eds) ICCS 2021. LNCS, vol 12747. Springer, Cham.
+<https://doi.org/10.1007/978-3-030-77980-1_30>
+
+<sup>2</sup> Data from the RSE International Survey 2022: S. Hettrick et al. 
+Sociodemography section, “RSE Survey 2022”, Version 2022-v0.9.0. DOI: <https://doi.org/10.5281/zenodo.6884882>.
+:::
+:::
+
 
 # Challenges and (towards) solutions
 
