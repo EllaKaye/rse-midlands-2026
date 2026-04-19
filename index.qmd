@@ -124,3 +124,19 @@ Sociodemography section, “RSE Survey 2022”, Version 2022-v0.9.0. DOI: <https
 - STEP-UP: <https://step-up.ac.uk>
 - R Contributors: <https://contributor.r-project.org>
 - rainbowR: <https://rainbowr.org>
+
+# Thank you {.center-h .larger150}
+<br/>
+
+::: {.center-h .larger150}
+
+Questions?
+
+:::
+
+::: {.smaller50 .funding-footer}
+
+JC acknowledges support from the STEP-UP project under UKRI EPSRC grant
+EP/Y530608/1.
+
+:::
