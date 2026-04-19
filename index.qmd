@@ -20,7 +20,7 @@ title-slide-attributes:
 
 # Why EDIA matters for RSEs {.center-h}
 
-## Background
+## Background {.smaller90}
 
  
 
@@ -31,7 +31,7 @@ Diversity within the RSE community:
 **Gender<sup>1</sup>**:
 :::
 
-::: {.column width="80%" .smaller80}
+::: {.column width="80%" .smaller90}
 | RSEs | Male | Female | Prefer to self-describe |
 |---|---|---|---|---|
 | UK | 71% | 20% | 3% |
@@ -48,11 +48,7 @@ aspects of diversity.
 
 ::::
 
-::: {.smaller50}
-
-:::
-
-::: {.smaller60}
+::: {.smaller70}
 <b>In the 2018 International RSE survey, results for the UK showed 79.8%
 of respondents as male, 14.3% female and 0.5% selecting the "other"
 option<sup>2</sup>.</b>
@@ -75,9 +71,36 @@ Public release for 2018 results, Version 2018-v.1.0.2. DOI:
 :::
 
 
-## Diagram about flow of jobs
+## Background: Skill and career pipelines {.smaller90}
 
-*Placeholder*
+::: {.smaller90}
+ - Effective skill and career pipelines vital to build a more diverse community
+ - Enhancing technical skill development opportunities in schools and at
+ undergraduate level (in traditionally non-computational domains)
+
+But we can also make a difference within the existing community...
+
+ - "**Domain mobility**"<sup>1</sup> - shows precedent for moving between domains to undertake RSE work - demographics can
+ differ between subject areas.
+
+ - Data (e.g. 2022 RSE international survey <sup>2</sup>) shows many
+ RSEs currently undertaking technical work in a different domain to that of
+ their highest-level qualification.
+
+:::
+
+::: aside
+::: {.smaller50}
+<sup>1</sup> N. P. Chue Hong, J. Cohen, C. Jay, (2021). Understanding Equity, Diversity
+and Inclusion Challenges Within the Research Software Community. In: Paszynski,
+M. et al.(eds) ICCS 2021. LNCS, vol 12747. Springer, Cham.
+<https://doi.org/10.1007/978-3-030-77980-1_30>
+
+<sup>2</sup> Data from the RSE International Survey 2022: S. Hettrick et al. 
+Sociodemography section, “RSE Survey 2022”, Version 2022-v0.9.0. DOI: <https://doi.org/10.5281/zenodo.6884882>.
+:::
+:::
+
 
 # Challenges and (towards) solutions
 
