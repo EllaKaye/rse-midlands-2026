@@ -116,7 +116,7 @@ new technical skills and address technical challenges in their research.
 :::
 
 ::: {.smaller80}
-R Project Sprints bring together a diverse group from around the world for three days to make substative contributions to base R.
+R Project Sprints bring together a diverse group from around the world for three days to make substantive contributions to base R.
 :::
 
 ## Key take-aways
