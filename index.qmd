@@ -136,7 +136,6 @@ R Project Sprints bring together a diverse group from around the world for three
 
 ## Papers
 
-- Papers
   - N. P. Chue Hong, J. Cohen, C. Jay. Understanding Equity, Diversity and Inclusion Challenges Within the Research
 Software Community (2021). ICCS 2021, LNCS vol 12747. Springer, Cham. <https://doi.org/10.1007/978-3-030-77980-1_30>
   - M. Tenquist et al., "Recommendations for Developing Effective Inclusivity
