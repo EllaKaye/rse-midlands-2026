@@ -155,7 +155,8 @@ What are your questions?
 
 ::: {.smaller50 .funding-footer}
 
-JC acknowledges support from the STEP-UP project under UKRI EPSRC grant
+JC acknowledges support for the STEP-UP project under UKRI EPSRC grant
 EP/Y530608/1.
 
+EK acknowledges support for the R Project Sprint under UKRI EPSRC grant EP/V052128/1.
 :::
