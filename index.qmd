@@ -128,11 +128,16 @@ R Project Sprints bring together a diverse group from around the world for three
 
 ## Links 
 
+::: {.smaller80}
 - STEP-UP: <https://step-up.ac.uk>
   - STEP-UP Mentoring Scheme: <https://step-up.ac.uk/mentoring/>
   - STEP-UP Placement Scheme: <https://step-up.ac.uk/placements/>
 - R Contributors: <https://contributor.r-project.org>
 - rainbowR: <https://rainbowr.org>
+- SSI Inclusive RSE:
+  - [Guidelines for making a difference](https://www.software.ac.uk/blog/equity-diversity-inclusivity-and-accessibility-research-software-engineering-guidelines-making)
+  - [Digital Health Equities seminar recording](https://www.software.ac.uk/news/inclusiverse-seminar-available-youtube-understanding-diversity-issues-digital-research)
+:::
 
 ## Papers
 
