@@ -149,3 +149,19 @@ Initiatives in Research Software Engineering" in Computing in Science &
 Engineering, vol. 27, no. 02, pp. 35-44, April-June 2025.
 <https://doi.org/10.1109/MCSE.2025.3539076>.
 :::
+
+# Thank you {.center-h .larger150}
+<br/>
+
+::: {.center-h .larger150}
+
+Questions?
+
+:::
+
+::: {.smaller50 .funding-footer}
+
+JC acknowledges support from the STEP-UP project under UKRI EPSRC grant
+EP/Y530608/1.
+
+:::
