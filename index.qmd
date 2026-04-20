@@ -104,9 +104,19 @@ Sociodemography section, “RSE Survey 2022”, Version 2022-v0.9.0. DOI: <https
 
 # Challenges and (towards) solutions
 
-## STEP-UP Research Technical Champions scheme
+## STEP-UP Research Technical Champions scheme {.nostretch .smaller70}
 
-![](images/STEP-UPChampionsKickOff-October2025.jpeg)
+:::{.center-h}
+![](images/STEP-UPChampionsKickOff-October2025.jpeg){width=600px}
+
+::: {.smaller50}
+STEP-UP Champions cohort 1 kick-off, October 2025 - Image credit: Katie Buntic
+:::
+:::
+
+The STEP-UP Research Technical Champions scheme supports a group of PhD
+students from the STEP-UP partner institutions to help their peers to develop
+new technical skills and address technical challenges in their research.
 
 ## R Project Sprint
 
@@ -119,11 +129,26 @@ Sociodemography section, “RSE Survey 2022”, Version 2022-v0.9.0. DOI: <https
 - Opportunities exist to make a difference - don't be frightened to engage!
 - Community only happens when people create the spaces and folks participate
 
-## Links and resources
+## Links and resources {.smaller90}
 
+::: {.smaller-l2}
 - STEP-UP: <https://step-up.ac.uk>
+  - STEP-UP Mentoring Scheme: <https://step-up.ac.uk/mentoring/>
+  - STEP-UP Placement Scheme: <https://step-up.ac.uk/placements/>
+:::
+
 - R Contributors: <https://contributor.r-project.org>
 - rainbowR: <https://rainbowr.org>
+
+::: {.smaller-l2}
+- Papers
+  - N. P. Chue Hong, J. Cohen, C. Jay. Understanding Equity, Diversity and Inclusion Challenges Within the Research
+Software Community (2021). ICCS 2021, LNCS vol 12747. Springer, Cham. <https://doi.org/10.1007/978-3-030-77980-1_30>
+  - M. Tenquist et al., "Recommendations for Developing Effective Inclusivity
+Initiatives in Research Software Engineering" in Computing in Science &
+Engineering, vol. 27, no. 02, pp. 35-44, April-June 2025.
+<https://doi.org/10.1109/MCSE.2025.3539076>.
+:::
 
 # Thank you {.center-h .larger150}
 <br/>
